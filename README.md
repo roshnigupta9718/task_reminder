@@ -1,8 +1,10 @@
-npm start command to run 
 
 
 
-demo link -roshni-taskremainder.web.app
+
+url of task reminder :  roshni-taskremainder.web.app
+app:  roshni-taskremainder.web.app
+
 
 
 
